@@ -1,0 +1,31 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color:#2D2273;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+
+
+/* Navbar*/
+.navbar {
+    background-color:#273440 !important;
+}
+
+/*Hero Banner*/
+.hero-banner {
+    background-image: url(../assets/02-hero-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
