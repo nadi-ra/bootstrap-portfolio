@@ -18,6 +18,14 @@ h6 {
 .navbar {
     background-color:#273440 !important;
 }
+.nav-title{
+    color: aliceblue;
+    font-size: 50px !important;
+    margin-right: 15px !important;
+}
+.navbar-nav li a{
+    color: aliceblue !important;
+}
 
 /*Hero Banner*/
 .hero-banner {
