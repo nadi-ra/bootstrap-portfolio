@@ -6,10 +6,8 @@ body {
 h1,
 h2,
 h3,
-h4,
-h5,
 h6 {
-    color:#2D2273;
+    color:#A4B3BF;
     font-size: 40px;
     text-decoration: underline;
 }
@@ -26,6 +24,25 @@ h6 {
     background-image: url(../assets/02-hero-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
+    margin-bottom: 15px;
+}
+/*Work Section*/
+.work-content {
+    margin-top: 50px;
+}
+.heading {
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+.card {
+    margin: 0 auto;
+}
+.work-cards {
+    display: flex;
+    justify-content: space-between;
+}
+#work-section .card-body{
+    text-align: center;
 }
 
-
+/*Skills*/
