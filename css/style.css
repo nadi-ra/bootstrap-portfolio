@@ -52,6 +52,11 @@ h6 {
 #work-section .card-body{
     text-align: center;
 }
+.card-button {
+    box-shadow: 5px 5px 0 blueviolet ;
+}
+
+
 /*About/Contact section*/
 li a {
     color: black;
