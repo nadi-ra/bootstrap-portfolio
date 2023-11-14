@@ -44,5 +44,19 @@ h6 {
 #work-section .card-body{
     text-align: center;
 }
+/*About/Contact section*/
+li a {
+    color: black;
+    text-decoration: none;
+    
+}
+/*Footer*/
+footer {
+    background-color: #273440;
+    padding: 20px 0;
+    color: aliceblue;
+}
+footer p {
+    text-align: center;
+}
 
-/*Skills*/
